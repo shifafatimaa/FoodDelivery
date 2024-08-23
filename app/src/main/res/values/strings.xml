@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FoodDelivery</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="sweet">Sweet</string>
+    <string name="ramen">Ramen</string>
+    <string name="biryani">Biryani</string>
+    <string name="drinks">Drinks</string>
+    <string name="fries">Fries</string>
+
+    <string name="farm_frsh_pizza">Farm Fresh pizza</string>
+    <string name="italian_pizza">Italian pizza with tomato and olives</string>
+    <string name="cheez_pizza">Cheez pizza</string>
+
+    <string name="restaurant1">Rice N Spice Food Corner</string>
+    <string name="taste_tester">Taste Testers</string>
+
+
+
+
+</resources>
